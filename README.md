@@ -1,2 +1,1 @@
-# Code-Of-Practice.github.io
-Test
+Index.html
